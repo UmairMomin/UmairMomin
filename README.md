@@ -74,16 +74,12 @@
 
 <h2 align="left">📫 Where to reach me</h2>
 
-###
-
-Email: **umairmomin04@gmail.com**
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/umair-momin-7963b4246/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  **umairmomin04@gmail.com**
 </div>
 
 ###
