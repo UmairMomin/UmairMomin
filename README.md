@@ -77,5 +77,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
 </p>
-
-<h3 align="left">Connect with me:</h3>
