@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -72,11 +72,11 @@
 
 ###
 
-<h3 align="left">📫 Where to reach me</h3>
+<h2 align="left">📫 Where to reach me</h2>
 
 ###
 
-<h5 align="left">Email: *umairmomin04@gmail.com*</h5>
+<h5 align="left">Email: umairmomin04@gmail.com</h5>
 
 ###
 
@@ -85,10 +85,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/UmairMomin/UmairMomin/output/snake.svg" alt="Snake animation" />
 
 ###
 
