@@ -76,7 +76,7 @@
 
 ###
 
-<h5 align="left">Email: **umairmomin04@gmail.com**</h5>
+<p align="left">Email: **umairmomin04@gmail.com**</p>
 
 ###
 
