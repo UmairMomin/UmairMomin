@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">A passionate Full Stack Web Developer from India.<br><br>🔭 I’m currently working on making AI automations, Full Stack Web, Machine Learning(Data Science)<br><br>🌱 I’m currently learning RAG models<br><br>👯 I’m looking to collaborate on AI projects and Web development<br><br>💬 Ask me about Full Stack Web, NLP, AI agents</p>
+<p align="left">A passionate Full Stack Web Developer from India.<br><br>🔭 I’m currently working on AI Engineering, Full Stack Web, Machine Learning(Data Science)<br><br>🌱 I’m currently learning RAG models<br><br>👯 I’m looking to collaborate on AI projects and Web development<br><br>💬 Ask me about Full Stack Web, NLP, AI agents</p>
 
 ###
 
