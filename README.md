@@ -1,24 +1,24 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0052D4,40:007BFF,75:00B894,100:38ef7d&text=Umair%20Momin&desc=Full%20Stack%20Developer%20%E2%80%A2%20%20AI%20/%20ML%20Engineer&descAlignY=65&descSize=15&animation=fadeIn&fontColor=fff" width="100%" />
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2772F7&center=true&vCenter=true&width=1100&lines=Building+Quietly%2C+Improving+Constantly+%F0%9F%A4%AB+%F0%9F%93%88;Code.+Break.+Improve.+Repeat.+%F0%9F%92%BB+%F0%9F%94%81;Designing+Systems+That+Make+Sense+%F0%9F%A7%A0+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
-<h1 align="center">Hey there 👋, I'm Umair Momin</h1>
+## 🧑🏻‍💻  About Me 
 
-###
 
-<h2 align="left">🧑🏻‍💻  About Me</h2>
+Hi, I’m **Umair** — a Computer Engineering student focused on building intelligent, real-world software. <br> <br>
+I enjoy combining AI with full-stack development to create systems that are practical, scalable, and thoughtfully designed.
 
-###
-
-<p align="left">A passionate Full Stack Web Developer from India.<br><br>🔭 I’m currently working on AI Engineering, Full Stack Web, Machine Learning(Data Science)<br><br>🌱 I’m currently learning RAG models<br><br>👯 I’m looking to collaborate on AI projects and Web development<br><br>💬 Ask me about Full Stack Web, NLP, AI agents</p>
-
-###
+🔭 Working on AI-driven and full-stack applications  
+🤖 Deep interest in LLMs, ML workflows & Data Science  
+🌱 Currently exploring RAG architectures & Vector Databases  
+💬 Open to conversations around intelligent system design and backend architecture  
+⚡ I enjoy turning complex ideas into structured, usable solutions  
 
 <h2 align="left">🛠 Language and tools</h2>
-
-###
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -69,8 +69,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
+<br>
+<br>
 
-###
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UmairMomin&theme=tokyonight)
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=UmairMomin&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UmairMomin/UmairMomin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UmairMomin/UmairMomin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/UmairMomin/UmairMomin/output/pacman-contribution-graph.svg">
+</picture>
+
+
 
 <h2 align="left">📫 Where to reach me</h2>
 
@@ -86,3 +104,7 @@
 ✨ Always Ready to take up challenges and dive deep into the core of a solution.
 
 ###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=UmairMomin.UmairMomin&right_color=blue&left_text=Visitors"  />
+</div>
