@@ -72,7 +72,11 @@ I enjoy combining AI with full-stack development to create systems that are prac
 <br>
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UmairMomin&theme=tokyonight)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UmairMomin&theme=algolia" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UmairMomin&theme=algolia" />
+</div>
+
 
 <br>
 
@@ -106,5 +110,5 @@ I enjoy combining AI with full-stack development to create systems that are prac
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=UmairMomin.UmairMomin&right_color=blue&left_text=Visitors"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=UmairMomin.UmairMomin&right_color=blue&left_text=Profile%20Views"  />
 </div>
